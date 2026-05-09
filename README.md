@@ -91,4 +91,4 @@ npm run frontend
 ## Requisitos
 
 - Node.js 18 o superior
-- npm 9 o superior
+- npm 9 o superior....
